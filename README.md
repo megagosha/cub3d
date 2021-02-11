@@ -3,7 +3,8 @@
 Based on this video https://www.youtube.com/watch?v=eOCQfxRQ2pY
 Tested on MacOs
 ````
-git clone git@github.com:megagosha/cub3d.git 
+git clone git@github.com:megagosha/cub3d.git
+cd cub3d
 make
 ./cub3D maps/t.cub 
 ````
